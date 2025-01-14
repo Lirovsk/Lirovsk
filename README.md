@@ -18,7 +18,6 @@ Here are some ideas to get you started:-->
 
 
 ## My story with programming
-![imagem](https://drive.google.com/file/d/11cknYVq8-faR07iabREArjE_CRzpibA8/view)<br>
  My first contact with programming lenguages was when I was 15, I had downloaded the grasshooper app from google and used the app for almost 5 mounths. Years later I have started at college and had my first class of programming logic, after one semester learning C during the programming logic lessons, I had a challenge to figure out how to make a lora V2 1276 works with a raspberry pi 2w on a python script. I have started learning python since then but, recently, I've decided to learn other subjects such as linux and C++ to increase my technical knwoledge on embedded systems (my carrer goal).
 ## My Achievements
 - I took part on the largest sounding rocket competition of the world (Spaceport America CUP 🚀👨‍🚀). RTepresenting my state (Minas Gerais), my country (Brazil) and getting a good position for our **first** participation, **we got 23 of 151 teams**;
