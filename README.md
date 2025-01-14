@@ -6,6 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Supernova ( a university rocket team 🚀)
+- 🎓currently cursing eletrical engineering at Federal University Of Juiz de Fora
 - 🌱 I’m currently learning Python 🐍, C++ ➕, Linux 🐧 and Docker 🐋
 - 👯 I’m looking to collaborate on any project that involves IoT, rocket science 
 - 🤔 I’m looking for help with all my limited (not forever) knowledge to improve my technical and soft skills
